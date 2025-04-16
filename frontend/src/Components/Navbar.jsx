@@ -39,7 +39,7 @@ const Navbar = () => {
         </ul>
 
         {/* Icon atau Bagian Kanan */}
-        <div className="flex flex-row md:gap-6 items-center gap-6 ml-auto">
+        <div className="flex flex-row md:gap-6 items-center gap-6 ml-auto md:ml-0">
           <Link to="/Collection">
             {" "}
             <img src={assets.search_icon} alt="" className="h-5" />

@@ -11,6 +11,10 @@ const Subscribe = () => {
           <p className="md:text-start text-center pt-2 text-gray-500">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
         </div>
       </div>
+
+      <div>
+        
+      </div>
     </div>
   );
 };

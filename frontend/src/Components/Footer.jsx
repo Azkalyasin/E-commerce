@@ -20,7 +20,7 @@ const Footer = () => {
           </li>
         </ul>
       </div>
-      <div>
+      <div className="mt-4 md:mt-0">
         <h1 className="text-gray-600 font-bold">Subscribe to our newsletter</h1>
         <p className="text-gray-400 mt-2">The latest news, articles, and resources.</p>
       </div>
